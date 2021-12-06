@@ -1,3 +1,5 @@
-##Portfolio Site
+**Portfolio Site**
 
-This is a showcase of what I have done previously.
+Welcome to my page.  This is a showcase of what I have done previously. 
+
+
